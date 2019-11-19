@@ -48,7 +48,7 @@ const wanwuSentry = () => {
     const init = (option: IOption) => {
         myEnv = option.env
 
-        if (myEnv) {
+        if (!myEnv) {
             throw new Error('请指明运行环境xcx|vue|javascript')
         }
 
