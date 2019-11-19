@@ -1,6 +1,6 @@
 {
   "name": "wanwu-sentry-test",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "异常检测插件",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
