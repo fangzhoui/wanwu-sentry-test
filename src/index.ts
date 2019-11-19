@@ -190,4 +190,4 @@ const wanwuSentry = () => {
     }
 }
 
-export default wanwuSentry
+export default wanwuSentry()
